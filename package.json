@@ -1,0 +1,12 @@
+{
+  "name": "comics-gender",
+  "version": "1.0.0",
+  "description": "A data visualization of gender representation in marvel comics",
+  "dependencies": {
+    "marvel-api": "^1.1.0",
+    "node-fetch": "^2.6.0",
+    "pg": "^7.12.1",
+    "sequelize": "^5.15.0"
+  },
+  "author": "Colleen Higgins"
+}
