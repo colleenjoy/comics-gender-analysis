@@ -9,6 +9,9 @@ const Character = db.define('character', {
   gender: {
     type: Sequelize.ENUM('male', 'female', 'other'),
   },
+  appearances: {
+    type: Sequelize.INTEGER,
+  },
 });
 
 module.exports = Character;
