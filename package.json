@@ -4,7 +4,7 @@
   "description": "A data visualization of gender representation in marvel comics",
   "dependencies": {
     "marvel-api": "^1.1.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "pg": "^7.12.1",
     "sequelize": "^5.15.0"
   },
